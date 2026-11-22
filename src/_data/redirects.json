@@ -1,0 +1,26 @@
+[
+  {
+    "from": "/posts/nextjs-15-build-once-deploy-many-achieving-environment-agnostic-builds-with-the-app-router/",
+    "to": "/posts/nextjs-15-build-once-deploy-many/"
+  },
+  {
+    "from": "/posts/automating-nextjs-15-deployments-a-build-once-deploy-many-github-actions-guide/",
+    "to": "/posts/automating-nextjs-15-deployments/"
+  },
+  {
+    "from": "/posts/your-simple-guide-to-googles-ai-tools-in-2026-practical-uses-for-everyday-life/",
+    "to": "/posts/simple-guide-to-googles-ai-tools-in-2026/"
+  },
+  {
+    "from": "/posts/how-to-shrink-docker-images-from-gigabytes-to-megabytes/",
+    "to": "/posts/shrink-docker-images-from-gb-to-mb/"
+  },
+  {
+    "from": "/posts/the-hard-truth-about-running-nextjs-at-scale/",
+    "to": "/posts/hard-truth-about-running-nextjs-at-scale/"
+  },
+  {
+    "from": "/posts/styling-options-in-nextjs-13-server-side-and-client-side/",
+    "to": "/posts/styling-options-in-nextjs-13/"
+  }
+]
