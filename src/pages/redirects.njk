@@ -1,0 +1,22 @@
+---
+pagination:
+  data: redirects
+  size: 1
+  alias: redirect
+permalink: "{{ redirect.from }}index.html"
+eleventyExcludeFromCollections: true
+sitemap: false
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting…</title>
+  <link rel="canonical" href="{{ site.url }}{{ redirect.to }}">
+  <meta http-equiv="refresh" content="0; url={{ redirect.to }}">
+  <meta name="robots" content="noindex">
+</head>
+<body>
+  <p>This page has moved to <a href="{{ redirect.to }}">{{ redirect.to }}</a>.</p>
+</body>
+</html>
